@@ -1,0 +1,18 @@
+C:\Users\NITRO\source\repos\Demo1\DAL\bin\Debug\DAL.dll
+C:\Users\NITRO\source\repos\Demo1\DAL\bin\Debug\DAL.pdb
+C:\Users\NITRO\source\repos\Demo1\DAL\bin\Debug\DTO.dll
+C:\Users\NITRO\source\repos\Demo1\DAL\bin\Debug\DTO.pdb
+C:\Users\NITRO\source\repos\Demo1\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\NITRO\source\repos\Demo1\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\NITRO\source\repos\Demo1\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\NITRO\source\repos\Demo1\DAL\obj\Debug\DAL.dll
+C:\Users\NITRO\source\repos\Demo1\DAL\obj\Debug\DAL.pdb
+C:\Users\Yen Nhi\Downloads\Demo1\Demo1\DAL\bin\Debug\DAL.dll
+C:\Users\Yen Nhi\Downloads\Demo1\Demo1\DAL\bin\Debug\DAL.pdb
+C:\Users\Yen Nhi\Downloads\Demo1\Demo1\DAL\bin\Debug\DTO.dll
+C:\Users\Yen Nhi\Downloads\Demo1\Demo1\DAL\bin\Debug\DTO.pdb
+C:\Users\Yen Nhi\Downloads\Demo1\Demo1\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Yen Nhi\Downloads\Demo1\Demo1\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Yen Nhi\Downloads\Demo1\Demo1\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Yen Nhi\Downloads\Demo1\Demo1\DAL\obj\Debug\DAL.dll
+C:\Users\Yen Nhi\Downloads\Demo1\Demo1\DAL\obj\Debug\DAL.pdb

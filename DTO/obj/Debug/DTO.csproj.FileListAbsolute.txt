@@ -1,0 +1,12 @@
+C:\Users\NITRO\source\repos\Demo1\DTO\bin\Debug\DTO.dll
+C:\Users\NITRO\source\repos\Demo1\DTO\bin\Debug\DTO.pdb
+C:\Users\NITRO\source\repos\Demo1\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\NITRO\source\repos\Demo1\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\NITRO\source\repos\Demo1\DTO\obj\Debug\DTO.dll
+C:\Users\NITRO\source\repos\Demo1\DTO\obj\Debug\DTO.pdb
+C:\Users\Yen Nhi\Downloads\Demo1\Demo1\DTO\bin\Debug\DTO.dll
+C:\Users\Yen Nhi\Downloads\Demo1\Demo1\DTO\bin\Debug\DTO.pdb
+C:\Users\Yen Nhi\Downloads\Demo1\Demo1\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\Yen Nhi\Downloads\Demo1\Demo1\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\Yen Nhi\Downloads\Demo1\Demo1\DTO\obj\Debug\DTO.dll
+C:\Users\Yen Nhi\Downloads\Demo1\Demo1\DTO\obj\Debug\DTO.pdb
